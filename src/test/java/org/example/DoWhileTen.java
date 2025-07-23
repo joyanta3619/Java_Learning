@@ -1,6 +1,6 @@
 
 
-public class DoWhile {
+public class DoWhileTen {
     public static void main(String[] args) {
         int i = 10;
         do {
